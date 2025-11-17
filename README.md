@@ -1,41 +1,135 @@
-<h1 align="center">Hi 👋, I'm Srujan Rana</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<!-- HEADER -->
+<h1 align="center">Hey, I'm <strong>Srujan Rana</strong> 👋</h1>
+<h3 align="center">Machine Learning Engineer • AI Researcher • Full-Stack Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanrana07&label=Profile%20views&color=0e75b6&style=flat" alt="srujanrana07" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srujanrana07&label=Profile%20Visits&color=0e75b6&style=for-the-badge" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srujanrana07" alt="srujanrana07" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Skin disease prediction model using CNN for feature extraction and BiLSTM for capturing temporal dependencies in image data, designed to enhance classification accuracy**
+## 🚀 About Me  
+I’m a Machine Learning Engineer from India, building intelligent systems that solve real-world problems.  
+Right now I’m exploring **multimodal deep learning**, **RAG-based policy agents**, and **AI for agriculture & healthcare**.
 
-- 🌱 I’m currently learning **Machine Learning/Deep learning**
+- 🔭 **Current Project:** Advanced skin disease detection using **CNN for feature extraction + BiLSTM for temporal modeling**  
+- 📚 **Learning:** Deep Learning · Generative AI · Distributed ML Systems  
+- ✍️ **Blogs:** I write about ML + AI on Medium  
+- 🤝 **Looking to Collaborate:** AI/ML research, applied deep learning projects, and open-source AI tooling  
+- 📫 **Reach Me:** **ranasrujan@gmail.com**  
+- ⚡ **Fun Fact:** I build side projects like they're snacks 🍪  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Srujanrana07](https://github.com/Srujanrana07)
+---
 
-- 📝 I regularly write articles on [https://medium.com/@srujanrana07](https://medium.com/@srujanrana07)
+## 🏆 Experience
 
-- 💬 Ask me about **Machine Learning**
+### **💼 Research Intern — NIT Raipur (May–June 2024)**
+- Built a **Voice Stress Analyzer** using **CNN-BiLSTM + Attention** → achieved **92% accuracy**  
+- Compared models (RNN-LSTM, BERT) — CNN-BiLSTM performed best  
+- Reduced inference time by **80%** with careful optimization  
 
-- 📫 How to reach me **srujanrana21@gmail.com**
+### **📝 Technical Content Writer — Daily Tech Suggest (2023)**
+- Wrote simplified articles on LLMs, GANs, and advanced AI topics  
+- Produced SEO-optimized content for **10k+ monthly readers**  
+- Collaborated on weekly editorial planning  
 
-- ⚡ Fun fact **Live like you have nothing to loose**
+---
 
-### Blogs posts
+## 🔥 Major Projects
+
+### 🛡️ **Cyprus — PII Protection System** | `Python · Django · AES-256`
+- Automated document verification using **OCR + encryption**  
+- Improved extraction accuracy by **70%** using Tesseract  
+- Reduced processing time by **80%**  
+- Role-based secure access system  
+
+### 🌾 **CropWise — AI Farming System (Deployed)**  
+`TensorFlow · Django · Firebase`
+- 83% accuracy in disease detection  
+- 90% accuracy in crop prediction  
+- Reduced crop loss by **30%**  
+- Built an AI marketplace & multilingual chatbot  
+
+### 📘 **PolicyRAG — RAG-Driven Policy Agent**  
+`Python · FAISS · LLMs · PDF Parsing`
+- Built a full **RAG pipeline** for policy documents  
+- Used FAISS for semantic clause retrieval  
+- Integrated **Gemini 2.5 Flash** for structured Q&A  
+- Implemented **parallel PDF processing** for speed  
+
+---
+
+## 🎓 Education  
+- **B.Tech in CSE (AI/ML)** — SUIIT — *GPA: 8.6*  
+- **B.Sc in Data Science** — IIT Madras — *GPA: 7.9*  
+
+---
+
+## 🛠️ Skills
+
+### **Programming**
+`Python` · `Java` · `C` · `SQL` · `HTML/CSS`
+
+### **ML & AI**
+`TensorFlow` · `Keras` · `CNNs` · `RNN/LSTM` · `Transformers`  
+`FAISS` · `RAG` · `Data Preprocessing`
+
+### **Data**
+`Pandas` · `NumPy` · `Matplotlib`
+
+### **Cloud / DevOps**
+`GCP` · `Docker` · `Git`
+
+### **Web Development**
+`Flask` · `Django` · `REST APIs`
+
+### **Databases**
+`MySQL` · `MongoDB`
+
+### **Other**
+`LaTeX` · `API Integration` · `Automation`
+
+---
+
+## 🏅 Achievements
+- 🎖️ **Top 5% — IITM BS Program**  
+- 🏆 **Hackfest Hackathon Finalist**  
+- 🥇 Ranked **3119 in Amazon ML Challenge 2025**  
+
+---
+
+## 🔗 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/srujan-rana"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <a href="https://github.com/Srujanrana07"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
+  <a href="https://medium.com/@srujanrana07"><img src="https://skillicons.dev/icons?i=medium" width="48"/></a>
+  <a href="https://twitter.com/srujan_rana"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
+</p>
+
+---
+
+## 🧰 Tools & Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,opencv,git,django,flask,mysql,postgres,docker,unity,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srujanrana07&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujanrana07&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujanrana07&theme=tokyonight" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srujan-rana-59705a25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srujan-rana-59705a25b" height="30" width="40" /></a>
-<a href="https://medium.com/@srujanrana07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srujanrana07" height="30" width="40" /></a>
-<a href="https://twitter.com/srujan_rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srujan_rana" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/srujanrana07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/srujanrana07" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srujanrana07&show_icons=true&locale=en" alt="srujanrana07" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srujanrana07&show_icons=true&locale=en&layout=compact" alt="srujanrana07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srujanrana07&" alt="srujanrana07" /></p>
