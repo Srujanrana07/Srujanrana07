@@ -67,7 +67,7 @@ Right now I’m exploring **multimodal deep learning**, **RAG-based policy agent
   <a href="https://linkedin.com/in/srujan-rana"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
   <a href="https://github.com/Srujanrana07"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
   <a href="https://medium.com/@srujanrana07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" width="40" height="40" alt="Medium"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="40" alt="Medium"/>
   </a>
   <a href="https://twitter.com/srujan_rana"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
 </p>
