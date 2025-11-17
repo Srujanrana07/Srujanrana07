@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=srujanrana07&label=Profile%20Visits&color=0e75b6&style=for-the-badge" />
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srujanrana07" alt="srujanrana07" /></a> </p>
+
 ---
 
 ## 🚀 About Me  
@@ -16,54 +18,8 @@ Right now I’m exploring **multimodal deep learning**, **RAG-based policy agent
 - 📚 **Learning:** Deep Learning · Generative AI · Distributed ML Systems  
 - ✍️ **Blogs:** I write about ML + AI on Medium  
 - 🤝 **Looking to Collaborate:** AI/ML research, applied deep learning projects, and open-source AI tooling  
-- 📫 **Reach Me:** **ranasrujan@gmail.com**  
+- 📫 **Reach Me:** **srujanrana07@gmail.com**  
 - ⚡ **Fun Fact:** I build side projects like they're snacks 🍪  
-
----
-
-## 🏆 Experience
-
-### **💼 Research Intern — NIT Raipur (May–June 2024)**
-- Built a **Voice Stress Analyzer** using **CNN-BiLSTM + Attention** → achieved **92% accuracy**  
-- Compared models (RNN-LSTM, BERT) — CNN-BiLSTM performed best  
-- Reduced inference time by **80%** with careful optimization  
-
-### **📝 Technical Content Writer — Daily Tech Suggest (2023)**
-- Wrote simplified articles on LLMs, GANs, and advanced AI topics  
-- Produced SEO-optimized content for **10k+ monthly readers**  
-- Collaborated on weekly editorial planning  
-
----
-
-## 🔥 Major Projects
-
-### 🛡️ **Cyprus — PII Protection System** | `Python · Django · AES-256`
-- Automated document verification using **OCR + encryption**  
-- Improved extraction accuracy by **70%** using Tesseract  
-- Reduced processing time by **80%**  
-- Role-based secure access system  
-
-### 🌾 **CropWise — AI Farming System (Deployed)**  
-`TensorFlow · Django · Firebase`
-- 83% accuracy in disease detection  
-- 90% accuracy in crop prediction  
-- Reduced crop loss by **30%**  
-- Built an AI marketplace & multilingual chatbot  
-
-### 📘 **PolicyRAG — RAG-Driven Policy Agent**  
-`Python · FAISS · LLMs · PDF Parsing`
-- Built a full **RAG pipeline** for policy documents  
-- Used FAISS for semantic clause retrieval  
-- Integrated **Gemini 2.5 Flash** for structured Q&A  
-- Implemented **parallel PDF processing** for speed  
-
----
-
-## 🎓 Education  
-- **B.Tech in CSE (AI/ML)** — SUIIT — *GPA: 8.6*  
-- **B.Sc in Data Science** — IIT Madras — *GPA: 7.9*  
-
----
 
 ## 🛠️ Skills
 
