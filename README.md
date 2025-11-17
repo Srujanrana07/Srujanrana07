@@ -1,133 +1,94 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=3000&color=00AEEF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Srujan+Rana;Machine+Learning+Engineer;AI+%7C+Deep+Learning+%7C+RAG+Systems;Building+Smart+%26+Scalable+AI+Solutions" />
-</p>
+<!-- HEADER -->
+<h1 align="center">Hey, I'm <strong>Srujan Rana</strong> 👋</h1>
+<h3 align="center">Machine Learning Engineer • AI Researcher • Full-Stack Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srujanrana07&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=srujanrana07&label=Profile%20Visits&color=0e75b6&style=for-the-badge" />
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srujanrana07&theme=algolia" alt="srujanrana07" /></a> </p>
 
 ---
 
 ## 🚀 About Me  
-I'm **Srujan Rana**, a passionate **Machine Learning Engineer & AI Developer** from India 🇮🇳.  
-I specialize in **Deep Learning, RAG Systems, MLOps, and AI-driven automation**.
+I’m a Machine Learning Engineer from India, building intelligent systems that solve real-world problems.  
+Right now I’m exploring **multimodal deep learning**, **RAG-based policy agents**, and **AI for agriculture & healthcare**.
 
-- 🔭 Currently working on: **Skin Disease Classification using CNN + BiLSTM hybrid architecture**  
-- 🌱 Learning: **Advanced Deep Learning, Cloud, MLOps**  
-- ✍️ Writer on Medium: [@srujanrana07](https://medium.com/@srujanrana07)  
-- 💬 Ask me about: **Machine Learning, RAG, Deep Learning, Python, AI projects**  
-- 🎯 Fun fact: *Live like you have nothing to lose*  
-
----
-
-## 🏆 Experience
-
-### 🔹 **Research Intern — NIT Raipur (May 2024 – Jun 2024)**
-- Built a **Voice Stress Analyzer** using **CNN-BiLSTM + Attention** achieving **92% accuracy**  
-- Compared RNN-LSTM, BERT & hybrid models  
-- Reduced inference time by **80%** via hyperparameter optimizations  
-
-### 🔹 **Technical Content Writer — Daily Tech Suggest (2023)**  
-- Wrote AI/ML articles for 10k+ monthly readers  
-- Simplified LLMs, GANs, neural networks for non-technical audiences  
-- Delivered SEO-optimized content
+- 🔭 **Current Project:** Advanced skin disease detection using **CNN for feature extraction + BiLSTM for temporal modeling**  
+- 📚 **Learning:** Deep Learning · Generative AI · Distributed ML Systems  
+- ✍️ **Blogs:** I write about ML + AI on Medium  
+- 🤝 **Looking to Collaborate:** AI/ML research, applied deep learning projects, and open-source AI tooling  
+- 📫 **Reach Me:** **ranasrujan@gmail.com**  
+- ⚡ **Fun Fact:** I build side projects like they're snacks 🍪    
 
 ---
 
-## 📌 Featured Projects  
-
-### 🔥 **Cyprus — PII Protection System**
-`Python • Django • AES-256 • OCR`
-- Automated document verification using OCR  
-- Improved extraction accuracy by **70%**  
-- Secure RBAC system + encrypted document workflow  
-🔗 Repo: https://github.com/Srujanrana07/pii-protection
+## 🎓 Education  
+- **B.Sc in Data Science** — IIT Madras — *GPA: 7.9*  
+- **B.Tech in CSE (AI/ML)** — SUIIT — *GPA: 8.6*  
 
 ---
 
-### 🌾 **CropWise — AI Farming Platform**  
-`TensorFlow • Django • Firebase`
-- 83% accuracy in plant disease detection  
-- 90% accuracy in crop yield prediction  
-- Reduced crop loss by **30%**  
-🔗 Live Demo: https://scarecrow-f10e9.web.app/
+## 🛠️ Skills
 
----
-
-### 🧠 **PolicyRAG — Policy Document AI Agent**  
-`FAISS • LLM • Python • RAG`
-- Built RAG engine for complex policy Q&A  
-- Extracted complex tables using **PyPDF + Camiot**  
-- Uses **Gemini 2.5 Flash** for clause justification  
-🔗 Repo: https://github.com/Srujanrana07/RAG-Based-policy-agent
-
----
-
-## 🛠️ Tech Stack  
-
-### **Languages**
-`Python` `C` `Java` `SQL` `HTML/CSS`
+### **Programming**
+`Python` · `Java` · `C` · `SQL` · `HTML/CSS`
 
 ### **ML & AI**
-`TensorFlow` `Keras` `scikit-learn` `CNN` `RNN` `BiLSTM` `Attention Models`
+`TensorFlow` · `Keras` · `CNNs` · `RNN/LSTM` · `Transformers`  
+`FAISS` · `RAG` · `Data Preprocessing`
 
-### **Data & Visualization**
-`NumPy` `Pandas` `Matplotlib`
+### **Data**
+`Pandas` · `NumPy` · `Matplotlib`
 
-### **Web & Backend**
-`Django` `Flask` `REST APIs`
+### **Cloud / DevOps**
+`GCP` · `Docker` · `Git`
 
-### **Cloud & DevOps**
-`GCP` `Docker` `Git`
+### **Web Development**
+`Flask` · `Django` · `REST APIs`
 
 ### **Databases**
-`MySQL` `MongoDB`
+`MySQL` · `MongoDB`
+
+### **Other**
+`LaTeX` · `API Integration` · `Automation`
 
 ---
 
-## 🏅 Achievements  
-- Top **5%** in IIT Madras BS Program  
-- **Hackfest Hackathon Finalist**  
-- Ranked **3119** in Amazon ML Challenge 2025  
-
----
-
-## 📚 Certifications  
-- Generative AI for Everyone  
-- Supervised Machine Learning (Andrew NG)  
-- IITM Data Science Essentials  
+## 🏅 Achievements
+- 🎖️ **Top 5% — IITM BS Program**  
+- 🏆 **Hackfest Hackathon Finalist**  
+- 🥇 Ranked **3119 in Amazon ML Challenge 2025**  
 
 ---
 
 ## 🔗 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/srujan-rana"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://medium.com/@srujanrana07"><img src="https://skillicons.dev/icons?i=medium" width="45"/></a>
-<a href="https://github.com/Srujanrana07"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="mailto:ranasrujan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://linkedin.com/in/srujan-rana"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <a href="https://github.com/Srujanrana07"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
+  <a href="https://medium.com/@srujanrana07" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" width="40" height="40" alt="Medium"/>
+  </a>
+  <a href="https://twitter.com/srujan_rana"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 🧰 Tools & Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,opencv,git,django,flask,mysql,postgres,docker,unity,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srujanrana07&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujanrana07&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srujanrana07&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Srujanrana07&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujanrana07&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srujanrana07&theme=tokyonight" />
-</p>
-
----
-
-## ✍️ Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ⭐ If you like my work, consider giving a star!  
 
