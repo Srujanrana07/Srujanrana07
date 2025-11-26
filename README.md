@@ -91,20 +91,6 @@ Right now I’m exploring **multimodal deep learning**, **RAG-based policy agent
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujanrana07&theme=tokyonight" />
 </p>
 
-## 🎯 Projects Showcase
 
-### **AI & ML** Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srujanrana07&repo=sdnext&theme=dark&hide_border=true&bg_color=773344)](https://github.com/Srujanrana07/Crop-Wise-AI-Farming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srujanrana07&repo=sd-extension-system-info&theme=dark&hide_border=true&bg_color=773344)](https://github.com/Srujanrana07/Potato-disease-classification.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srujanrana07&repo=sd-extension-chainner&theme=dark&hide_border=true&bg_color=773344)](https://github.com/Srujanrana07/stock-market-analysis.git)
-### **NLP** projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srujanrana07&repo=sd-extension-nudenet&theme=dark&hide_border=true&bg_color=773344)](https://github.com/Srujanrana07/ResearchReach-A-Cold-Email-Helper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srujanrana07&repo=sd-extension-rembg&theme=dark&hide_border=true&bg_color=773344)](https://github.com/Srujanrana07/book-recomender-system)
-
-### **CyberSecurity & ML** Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srujanrana07&repo=sd-samples&theme=dark&hide_border=true&bg_color=773344)](https://github.com/Srujanrana07/Cyprus-PII-Protection-and-Verification-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srujanrana07&repo=sd-data&theme=dark&hide_border=true&bg_color=773344)](https://github.com/Srujanrana07/Sy-nity) 
-### **RAG & ML** Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Srujanrana07&repo=sd-samples&theme=dark&hide_border=true&bg_color=773344)](https://github.com/Srujanrana07/RAG-Based-policy-agent)
 
 
