@@ -39,12 +39,12 @@ based in  → Bhubaneswar, Odisha, India
 | 🌐 `lingodotdev/lingo.dev` | [#1491](https://github.com/lingodotdev/lingo.dev/pull/1491) | Merged fix to Lingo.dev's open-source localization engine |
 | 🤖 `mistralai/mistral-vibe` | [#715](https://github.com/mistralai/mistral-vibe/pull/715) | Retry-loop fix for a reasoning-model agent hang; added 10 new tests |
 
-<!-- </td>
+</td>
 <td width="40%" align="center">
 
 <img src="assets/pixel-avatar.svg" width="140"/>
 
-</td> -->
+</td>
 </tr>
 </table>
 
