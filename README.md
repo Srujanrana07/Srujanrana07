@@ -35,9 +35,9 @@ based in  → Bhubaneswar, Odisha, India
 
 | Repo | PR | Description |
 |---|---|---|
-| <img src="https://skillicons.dev/icons?i=azure" width="18"/> `microsoft/qlib` | [#2195](https://github.com/microsoft/qlib/pull/2195) | Merged fix to Microsoft's AI-oriented quant investment platform |
-| 🌐 `lingodotdev/lingo.dev` | [#1491](https://github.com/lingodotdev/lingo.dev/pull/1491) | Merged fix to Lingo.dev's open-source localization engine |
-| 🤖 `mistralai/mistral-vibe` | [#715](https://github.com/mistralai/mistral-vibe/pull/715) | Retry-loop fix for a reasoning-model agent hang; added 10 new tests |
+| `microsoft/qlib` | [#2195](https://github.com/microsoft/qlib/pull/2195) | Merged fix to Microsoft's AI-oriented quant investment platform |
+| `lingodotdev/lingo.dev` | [#1491](https://github.com/lingodotdev/lingo.dev/pull/1491) | Merged fix to Lingo.dev's open-source localization engine |
+| `mistralai/mistral-vibe` | [#715](https://github.com/mistralai/mistral-vibe/pull/715) | Retry-loop fix for a reasoning-model agent hang; added 10 new tests |
 
 </td>
 <td width="40%" align="center">
